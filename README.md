@@ -65,8 +65,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=devgaur527&repo=asianPaints" />
   </a>
 
-  <a href="https://github.com/devgaur527/NutriNourish">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devgaur527&repo=NutriNourish" />
+  <a href="https://github.com/devgaur527/AegisMail">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devgaur527&repo=AegisMail" />
   </a>
 </p>
 
